@@ -40,7 +40,7 @@ Old bills can be fetched anytime using the 'Search Bill' function.
 
 ## 📥 Download Project File
 
-- [Fully Automated Inventory & Billing ERP System](https://github.com/pradeepkurrey/FULLY-AUTOMATED-INVENTORY-AND-BILLING-ERP-SYSTEM-PROJECT-PRESENTATION/raw/refs/heads/Automated_Invoice.xlsm)
+- [Fully Automated Inventory & Billing ERP System](https://github.com/pradeepkurrey/Fully-Automated-Inventory-And-Biling-ERP-System/raw/refs/heads/Automated_Invoice.xlsm)
   
 
 # 🖼️ Project Screenshots & Automation Workflow
